@@ -1,0 +1,19 @@
+# Site settings
+name: 田振宇
+location: 北京
+company: xxxx
+position: Java开发工程师
+github: https://github.com/
+#facebook: https://www.facebook.com/
+phone: 187XXXX6906
+email: xxxx@xxx.com
+
+baseurl: "/tzy"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
