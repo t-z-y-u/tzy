@@ -32,7 +32,7 @@ phone: 1580424XXXX
 email: xxxx@xxx.com
 
 #本项目的baseurl
-baseurl: "/resume.io"
+baseurl: "/tzy"
 ```
 
 2. 修改个人头像信息
@@ -84,7 +84,7 @@ Configuration file: C:/..../resume.io/_config.yml
   Server running... press ctrl-c to stop.
 ```
 
-然后可以访问[http://127.0.0.1:4000/resume.io/](http://127.0.0.1:4000/resume.io/)来访问本地的服务了。
+然后可以访问[http://127.0.0.1:4000/tzy/](http://127.0.0.1:4000/tzy/)来访问本地的服务了。
 
 
 ## 在线预览
@@ -104,7 +104,7 @@ Configuration file: C:/..../resume.io/_config.yml
 
 ## 参考
 
-本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。
+本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。很多地方暂时未完善，待后续有时间完善。
 
 ## 开源协议
 [MIT](https://gitee.com/xiaodan_yu/resume.io/blob/master/LICENSE)
